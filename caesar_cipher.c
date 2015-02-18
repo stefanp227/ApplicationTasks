@@ -1,6 +1,6 @@
 ﻿#include<stdio.h>
-#include<stdlib.h> // 20+10 = 30 30-26=4 0+4 [3]
-#include<string.h>//   j+n = *  *-26=answer
+#include<stdlib.h>
+
 
 char lowercase[] = "abcdefghijklmnopqrstuvwxyz";
 char uppercase[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
